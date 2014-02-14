@@ -18,6 +18,8 @@ Whether you are running applications that share photos or support the critical o
 
 Amazon mendefinisikan cloud computing sebagai layanan penyedia sumber daya TI yang dapat ditingkatkan atau diturunkan sesuai dengan kebutuhan dan juga harga yang tergantung pemakaian. Hal ini berarti jika web Anda sedang memiliki traffic yang tinggi Anda dapat menaikkan sumber daya yang Anda perlukan sendiri tanpa menunggu konfirmasi dari pihak provider (AWS). Selain itu, Anda hanya perlu membayar jika Anda benar-benar memakai sumber daya tersebut.
 
+<!-- more -->
+
 Jika Anda pernah memakai web hosting dengan pembayaran bulanan/tahunan Anda pasti tahu bahwa kita harus membayar secara penuh meskipun tidak ada traffic pada web kita. Selain itu proses upgrade/downgrade memerlukan konfirmasi dari provider. Hal ini berbeda dengan aws dimana kita hanya membayar untuk sumber yang dipakai (tidak sepenuhnya tetapi akan saya jelaskan nanti).
 
 ## Layanan AWS
