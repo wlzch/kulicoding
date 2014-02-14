@@ -12,6 +12,7 @@ gem 'rubypants', '~> 0.2.0'
 gem 'stringex', '~> 1.4.0'
 gem 'liquid', '~> 2.3.0'
 gem 'directory_watcher', '1.4.1'
+gem 'pygments.rb', '~> 0.3.4'
 gem 'sinatra', '~> 1.4.2'
 gem 'thin'
 
