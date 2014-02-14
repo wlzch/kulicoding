@@ -18,7 +18,6 @@ gem 'thin'
 
 group :development do
   gem 'rb-fsevent', '~> 0.9'
-  gem 'heroku'
 end
 
 ruby '2.0.0'
