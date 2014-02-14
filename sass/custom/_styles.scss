@@ -536,10 +536,15 @@ article {
     margin-bottom: 0.452rem;
   }
 
-  .entry-content > pre {
-    @extend .font-size-smallest;
-    @extend .margin-bottom-large;
-    overflow: auto;
+  .entry-content {
+    & > pre {
+      @extend .font-size-smallest;
+      @extend .margin-bottom-large;
+      overflow: auto;
+    }
+    img {
+      max-width: 100%;
+    }
   }
 
   ul, ol {
