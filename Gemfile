@@ -21,4 +21,4 @@ group :development do
   gem 'heroku'
 end
 
-ruby '2.1.0'
+ruby '2.0.0'
