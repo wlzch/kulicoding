@@ -47,3 +47,5 @@ Singkatnya Octopress hampir menyerupai Jekyll. Tetapi di Octopress kamu telah di
 Gimana? Tertarik untuk mencobanya? Saya akan menulis tentang cara menginstall dan menggunakannya di post berikutnya. Namun, sesuai dengan konsep Octopress "A blogging framework for hackers", kamu harusnya dapat melakukannya sendiri jika kamu merasa cukup pantas untuk dipanggil `hacker`
 
 Dan yang terakhir, kamu dapat melihat code blog ini di [github](https://github.com/wlzch/kulicoding) dan teks untuk artikel ini [disini](https://raw2.github.com/wlzch/kulicoding/master/source/_posts/2014-02-15-ngaku-programmer-pakai-octopress-sebagai-blogging-platform-kamu.markdown)
+
+Update: [Tutorial Install Octopress dan Deploy ke Heroku](/blog/2014-02-16-tutorial-install-octopress-dan-deploy-ke-heroku)
