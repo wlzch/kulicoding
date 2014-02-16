@@ -16,6 +16,8 @@ cd octopress
 
 Perintah tersebut akan mengcopy semua code Octopres kedalam folder `octopress`. Kemudian install dependencies yang diperlukan Octopress dengan perintah berikut.
 
+<!-- more -->
+
 {% codeblock lang:bash %}
 gem install bundler
 bundle install
