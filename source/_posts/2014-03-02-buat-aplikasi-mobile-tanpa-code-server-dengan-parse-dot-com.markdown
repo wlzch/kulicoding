@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Buat Aplikasi Mobile Tanpa Kode Server dengan Parse.com"
+title: "Buat Aplikasi Mobile Tanpa Code Server dengan Parse.com"
 date: 2014-03-02 19:51:33 +0700
 comments: true
 categories: [parse, mobile, android]
