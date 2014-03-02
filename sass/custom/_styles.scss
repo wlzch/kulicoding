@@ -415,6 +415,16 @@ body {
       }
     }
   }
+
+  #bmc {
+      margin-top: 15px;
+      span, img {
+          vertical-align: middle;
+      }
+      img {
+          margin-left: 15px;
+      }
+  }
 }
 
 
