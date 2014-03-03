@@ -8,7 +8,9 @@ categories: [ux, design, saklar]
 
 Artikel ini adalah artikel pertama dari seri tentang [User Experience (UX)](http://en.wikipedia.org/wiki/User_experience_design) yang lebih baik dari produk-produk yang telah ada yang berjudul "Better UX".
 
-Pasti punya saklar lampu kan dirumah? Tau bentuk saklar lampu kan? Kalau belum tau silahkan lihat gambar dibawah
+Pertama-tama, apa itu UX? UX adalah bagaimana cara seseorang merasakan ketika menggunakan sebuah produk. Misalkan untuk mematikan komputer kamu hanya tinggal menekan tombol shut down. Bayangkan jika untuk mematikan komputer kamu harus memasukkan nomor KTP, melakukan harlem shake selama 1 menit dan kemudian diikuti dengan gangnam style selama 30 detik. Katanya sih untuk keamanan, tapi apakah kamu mau memakai komputer seperti itu? Tidak, bukan? Itulah contoh UX yang buruk. Oke, mari kita lanjut.
+
+Pasti punya saklar lampu kan dirumah? Tau bentuk saklar lampu kan? Kalau belum tau silahkan lihat gambar dibawah.
 
 {% img center https://dl.dropboxusercontent.com/u/11255315/kulicoding/dscn5779.jpg Saklar %}
 
@@ -18,7 +20,9 @@ Kenapa bisa begitu? Saya rasa karena otak kita tidak terbiasa mengasosiasikan de
 
 {% img center https://dl.dropboxusercontent.com/u/11255315/kulicoding/saklar_1.jpg Design Saklar %}
 
-Coba tebak ujung mana yang digunakan untuk menghidupkan lampu? Kalau jawab yang merah silahkan tekan ctrl+f4 sekarang juga. Bukankah lebih jelas jika saklar lampu didesign seperti ini?
+Coba tebak ujung mana yang digunakan untuk menghidupkan lampu? Kalau jawab yang merah silahkan tekan alt+f4 sekarang juga.
+
+Bukankah lebih jelas jika saklar lampu didesign seperti ini?
 
 Mungkin ada yang merasa bahwa meskipun secara UX bagus tapi secara visual kurang bagus karena terlalu mencolok? Saya juga merasa demikian. Tetapi yang ingin saya tekankan adalah mengenai penggunaan warna yang benar untuk menghasilkan UX yang lebih bagus. Design lingkaran diatas dapat diubah menjadi batang tipis vertikal/horizontal tetapi orang tetap akan tahu bagaimana cara menggunakannya.
 
