@@ -3,6 +3,7 @@ layout: post
 title: "Better UX: Saklar Lampu"
 date: 2014-03-03 18:59:05 +0700
 comments: true
+cover: "https://dl.dropboxusercontent.com/u/11255315/kulicoding/dscn5779.jpg"
 categories: [ux, design, saklar]
 ---
 
